@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Benjamin, a Computer Engineering student from Santiago, Chile.
+I'm Benjamin, a Mathematical and Computational Engineering Student from Santiago, Chile. I am primarily interested in the intersection between robotics and computer vision — especially planning and SLAM. My work is grounded in the fundamentals of physics and mathematics, and I enjoy tackling problems that combine rigorous theory with real‑world applications.
 
-My primary focus is on **Machine Learning Engineering**, with a keen interest in Deep Learning and Computer Vision. I am also passionate about Software Engineering, especially backend development, and exploring how **Machine Learning intersects with hardware** and diverse fields such as Psychology, Sociology, and **Physics**. I am actively seeking opportunities to collaborate on impactful projects that positively influence society and the environment. 
-
-In my leisure time, I enjoy watching series, practicing artistic gymnastics, seeing Lex Fridman podcasts and playing video games.
+In my leisure time, I enjoy watching series, doing exercise, seeing Lex Fridman podcasts and learning new things.
 
 So, if you are interested in collaborating on a project, discussing a topic, or just want to chat, feel free to reach out!
 
